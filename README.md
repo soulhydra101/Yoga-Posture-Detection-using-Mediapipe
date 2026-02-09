@@ -17,7 +17,7 @@ The following image demonstrates the precision of the warrior pose as well as th
 
 ![image](https://github.com/abhishekjani08/Yoga-Posture-Detection-using-Mediapipe/assets/88500027/dfb5d611-1088-44de-a0dc-85b9fb4563d5)
 
-All these postures are included in this project:
+All these postures are included in this project:<br>
 ![image](https://github.com/abhishekjani08/Yoga-Posture-Detection-using-Mediapipe/assets/88500027/ab1b3568-1002-4919-bd0d-9ecbeac1c015)
 
 
