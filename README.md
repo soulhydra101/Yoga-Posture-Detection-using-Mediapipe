@@ -13,11 +13,11 @@
 The angles listed below are accurate ones, and we taught our system to recognise these kinds of photographs.
 ![image](https://github.com/abhishekjani08/Yoga-Posture-Detection-using-Mediapipe/assets/88500027/0fe1f930-12e1-454f-b7a2-6612a24d7e17)
 
-The following image demonstrates the precision of the warrior pose as well as the adjustments we must do to improve it.
+The following image demonstrates the precision of the warrior pose as well as the adjustments we must do to improve it.<br>
+
 ![image](https://github.com/abhishekjani08/Yoga-Posture-Detection-using-Mediapipe/assets/88500027/dfb5d611-1088-44de-a0dc-85b9fb4563d5)
 
-All these postures are included in this project
-
+All these postures are included in this project:
 ![image](https://github.com/abhishekjani08/Yoga-Posture-Detection-using-Mediapipe/assets/88500027/ab1b3568-1002-4919-bd0d-9ecbeac1c015)
 
 
